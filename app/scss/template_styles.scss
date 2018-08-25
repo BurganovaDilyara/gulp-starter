@@ -1,0 +1,17 @@
+@import "bourbon/_bourbon.scss";
+@import "_fonts.scss";
+
+h1, h2, h3, h4, h5, h6, p {
+  line-height: normal;
+  margin: 0;
+}
+body {
+	margin: 0;
+}
+ul {	padding: 0px;
+	margin: 0px;
+}
+.start {
+	color: red;
+	font-family: 'PTSans-Regular';
+}

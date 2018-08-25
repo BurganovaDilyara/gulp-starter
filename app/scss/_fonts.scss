@@ -1,0 +1,5 @@
+@import "bourbon/_bourbon.scss";
+
+
+@include font-face("PTSans-Regular", "../fonts/PTSans-Regular/PTSans-Regular", $file-formats: eot woff ttf svg);
+@include font-face("PTSans-Bold", "../fonts/PTSans-Bold/PTSans-Bold", $file-formats: eot woff ttf svg);
